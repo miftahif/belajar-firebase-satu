@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105077450467",
+    "project_id": "belajar-firebase-satu-4b932",
+    "storage_bucket": "belajar-firebase-satu-4b932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105077450467:android:4f0220388a1fec33e507d6",
+        "android_client_info": {
+          "package_name": "com.example.belajar_firebase_satu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105077450467-utuh0hdeqhelrs209h8rn0c60do93973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeIhrVI9U5haTaEai5A6vtoXeIjxw-pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105077450467-utuh0hdeqhelrs209h8rn0c60do93973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
